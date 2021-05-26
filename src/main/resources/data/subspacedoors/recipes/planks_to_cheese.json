@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "tag": "minecraft:planks"
+    },
+    "result": "subspacedoors:example_food",
+    "experience": 20,
+    "cookingtime": 20
+}

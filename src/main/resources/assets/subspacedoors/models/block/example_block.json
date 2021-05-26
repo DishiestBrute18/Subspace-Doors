@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "subspacedoors:blocks/example_block"
+    }
+}

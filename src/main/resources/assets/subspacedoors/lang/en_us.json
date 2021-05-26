@@ -1,0 +1,13 @@
+{
+	"item.subspacedoors.example_item": "Example Item",
+	"item.subspacedoors.special_item": "Special Item",
+	"item.subspacedoors.example_food": "Example Food",
+	"block.subspacedoors.example_block": "Block of Example",
+	"block.subspacedoors.custom_block" : "Custom Block",
+	"block.subspacedoors.example_ore": "Example Ore",
+	
+	"tooltip.subspacedoors.special_item.hold_shift": "Hold \u00A7eShift \u00A77For More Information",
+	
+	"itemGroup.Subspace_Doors": "Subspace Doors"
+}
+

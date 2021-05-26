@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "subspacedoors:block/custom_block"},
+        "facing=south": { "model": "subspacedoors:block/custom_block", "y" : 180},
+        "facing=west":  { "model": "subspacedoors:block/custom_block", "y" : 270},
+        "facing=east":  { "model": "subspacedoors:block/custom_block", "y" : 90}
+    }
+}
